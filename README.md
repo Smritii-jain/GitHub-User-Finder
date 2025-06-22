@@ -32,7 +32,8 @@ A sleek and modern web application to find any GitHub user and display key profi
 
 3. Open the index.html file in your browser or use Live Server (VS Code extension).
 4. Enter any GitHub username and click Search.
-   
-   ![image](https://github.com/user-attachments/assets/a32f1e7c-a4ad-4ea2-b479-0519661af1a2)
+
+   ![image](https://github.com/user-attachments/assets/4076a558-4174-4a5b-9d5e-9dd0b151c63a)
+
 
 
