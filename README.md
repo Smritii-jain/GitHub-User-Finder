@@ -1,6 +1,6 @@
 # 🔍GitHub User Finder
 
-A sleek and modern web application that allows users to search for any GitHub profile and view relevant public information using the GitHub API.
+A sleek and modern web application to find any GitHub user and display key profile details — built using HTML, Tailwind CSS, and JavaScript, powered by GitHub REST API.
 
 ## 🚀 Features
 - 🔍 Search any GitHub username
