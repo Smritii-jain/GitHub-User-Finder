@@ -25,9 +25,8 @@ A sleek and modern web application that allows users to search for any GitHub pr
 ## How to Use
 
 1. Clone the repository:
-   git clone https:
 
-          //github.com/Smritii-jain/GitHub-User-Finder.git
+          git clone https://github.com/Smritii-jain/GitHub-User-Finder.git
    
           cd GitHub-User-Finder
 
